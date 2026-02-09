@@ -43,8 +43,8 @@ Transformar dados brutos de vendas em **insights claros e acionáveis**, permiti
 ## 📸 Preview do Dashboard
 > *(imagens ilustrativas)*
 
-![Visão Geral](docs/VisãoComercial.png)
-![Funil Comercial](docs/ProcessodeVendas.png)
+![Visão Geral](docs/Visão_Comercial.png)
+![Funil Comercial](docs/Processo_de_Vendas.png)
 
 ---
 
