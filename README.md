@@ -1,6 +1,8 @@
 Projeto de análise comercial e pipeline de vendas, desenvolvido em Power BI, utilizando dados armazenados em SQL Server.
 O dashboard permite acompanhar desempenho de vendas, funil comercial, metas, conversões e evolução temporal, com foco em apoio à tomada de decisão.
 
+---
+
 🎯 Objetivo do Projeto
 
 - Transformar dados brutos de vendas em insights claros e acionáveis, permitindo:
@@ -15,6 +17,7 @@ O dashboard permite acompanhar desempenho de vendas, funil comercial, metas, con
 
 - Analisar performance por vendedor, produto e país
 
+---
 
 📈 Principais Análises e KPIs
 
@@ -34,6 +37,7 @@ O dashboard permite acompanhar desempenho de vendas, funil comercial, metas, con
 
 📦 Análise por produto
 
+---
 
 🛠️ Tecnologias Utilizadas
 
