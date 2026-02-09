@@ -49,7 +49,7 @@ Transformar dados brutos de vendas em **insights claros e acionáveis**, permiti
 ---
 
 Estudo de Caso – Análise Comercial e Tomada de Decisão Executiva
-[Relatório Executivo de Performance Comercial](./Projeto.Análise.Comercial.pdf)
+[Relatório Executivo de Performance Comercial](docs/Projeto.Análise.Comercial.pdf)
 
 ---
 ## ▶️ Como visualizar o dashboard
