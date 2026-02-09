@@ -48,6 +48,10 @@ Transformar dados brutos de vendas em **insights claros e acionáveis**, permiti
 ![Funil Comercial](docs/Processo_de_Vendas.png)
 ---
 
+Estudo de Caso – Análise Comercial e Tomada de Decisão Executiva
+[Relatório Executivo de Performance Comercial](./Projeto_Análise_Comercial.pdf)
+
+---
 ## ▶️ Como visualizar o dashboard
 1. Faça o download do arquivo `.pbix` na pasta `powerbi`
 2. Abra o arquivo no **Power BI Desktop**
