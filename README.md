@@ -40,6 +40,17 @@ Transformar dados brutos de vendas em **insights claros e acionáveis**, permiti
 
 ---
 
+🧱 Arquitetura e Pipeline de Dados
+
+Todo o processo de dados deste projeto foi desenvolvido de ponta a ponta. Os dados de origem em Excel passaram por etapas de organização e tratamento antes de serem carregados em um banco de dados relacional no SQL Server, criado especificamente para este estudo.
+
+O banco de dados foi modelado com definição de tabelas, chaves primárias e estrangeiras, relacionamentos e integridade referencial, seguindo boas práticas de modelagem para análise. Após essa etapa, os dados foram integrados ao Power BI, onde também foi realizado tratamento adicional, criação de medidas em DAX e ajustes no modelo semântico para garantir consistência e performance nas análises.
+
+Essa abordagem permitiu simular um cenário real de ambiente corporativo, desde a estruturação da base de dados até a visualização final dos indicadores estratégicos.
+
+---
+
+
 ## 📸 Preview do Dashboard
 > *(imagens ilustrativas)*
 
