@@ -82,3 +82,39 @@ ADD CONSTRAINT FK_Oportunidades_Calendario
 FOREIGN KEY (Data_Oportunidade)
 REFERENCES Calendario(Data);
 
+BULK INSERT dbo.Vendedores
+FROM 'C:\import\dados.csv'
+WITH (
+    FIRSTROW = 2,              
+    FIELDTERMINATOR = ';',     
+    ROWTERMINATOR = '\n',
+    CODEPAGE = '65001'         
+);
+
+BULK INSERT dbo.Empresas
+FROM 'C:\import\dados.csv'
+WITH (
+    FIRSTROW = 2,              
+    FIELDTERMINATOR = ';',     
+    ROWTERMINATOR = '\n',
+    CODEPAGE = '65001'         
+
+);
+
+BULK INSERT dbo.Produtos
+FROM 'C:\import\dados.csv'
+WITH (
+    FIRSTROW = 2,              
+    FIELDTERMINATOR = ';',     
+    ROWTERMINATOR = '\n',
+    CODEPAGE = '65001'         
+);
+
+BULK INSERT dbo.Metas
+FROM 'C:\import\dados.csv'
+WITH (
+    FIRSTROW = 2,              
+    FIELDTERMINATOR = ';',     
+    ROWTERMINATOR = '\n',
+    CODEPAGE = '65001'         
+);
