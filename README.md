@@ -45,6 +45,7 @@ Transformar dados brutos de vendas em **insights claros e acionáveis**, permiti
 
 ![Visão Geral](docs/Visão_Comercial.png)
 ![Funil Comercial](docs/Processo_de_Vendas.png)
+![Performance](docs/Performance.png)
 
 ---
 
